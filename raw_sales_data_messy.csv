@@ -1,0 +1,516 @@
+Order_ID,Order_Date,Customer_ID,City,Product_Category,Item_Price,Quantity,Discount_Percent,Payment_Method,Shipping_Cost,Delivery_Status
+TRX1297,2025-01-18,CUST141,Jakarta,Elektronik ,524000,4,0,E-wallet,10000,Delivered
+TRX1097,2025-02-11,CUST127,Semarang,Kesehatan,,3,10,E-Wallet,25000,Delivered
+TRX1420,2025-02-16,CUST067,Bali,Makanan,122000,2,10,Transfer Bank,40000,Delivered
+TRX1171,2025-01-25,CUST113,Jakarta,Makanan,115000,2,0,Credit Card,10000,Delayed
+TRX1008,2025-01-12,CUST069,Surabaya,Olahraga,2813000,1,15,Transfer Bank,25000,Delivered
+TRX1148,2025-02-22,CUST125,Depok,Makanan,129000,1,20,E-Wallet,10000,Delivered
+TRX1241,2025-02-17,CUST023,Bali,Kesehatan,140000,1,0,Credit Card,40000,Delivered
+TRX1199,2025-02-26,CUST089,,Olahraga,2424000,1,0,Transfer Bank,25000,Cancelled
+TRX1157,2025-01-04,CUST066,Medan,Pakaian,707000,1,20,E-Wallet,40000,Delivered
+TRX1154,2025-01-11,CUST118,Yogyakarta,Elektronik,7827000,3,0,Credit Card,25000,Delayed
+TRX1476,2025-01-27,CUST030,Yogyakarta,Makanan,83000,4,10,Transfer Bank,25000,Delivered
+TRX1060,2025-02-09,CUST062,Semarang,Makanan,40000,2,0,COD,25000,Delivered
+TRX1144,2025-01-28,CUST069,Jakarta,Pakaian,362000,2,0,COD,10000,Delivered
+TRX1487,2025-02-22,CUST003,Malang,Rumah Tangga,2428000,1,0,E-Wallet,25000,Delayed
+TRX1152,2025-02-18,CUST019,Bali,Rumah Tangga,277000,1,5,E-Wallet,40000,Delivered
+TRX1226,2025-02-05,CUST053,Bali,Olahraga   ,2715000,4,20,E-Wallet,40000,Cancelled
+TRX1164,2025-01-17,CUST094,Yogyakarta,Kecantikan,456000,1,0,E-Wallet,25000,Cancelled
+TRX1325,2025-02-05,CUST107,Bali,Makanan,40000,2,20,E-Wallet,40000,Delivered
+TRX1045,2025-02-07,CUST090,Semarang,Rumah Tangga,1055000,1,15,Transfer Bank,25000,Delivered
+TRX1410,2025-01-08,CUST117,Jakarta,Kecantikan,259000,1,20,Credit Card,10000,Delayed
+TRX1406,2025-02-27,CUST080,Semarang,Rumah Tangga,2162000,3,15,E-Wallet,25000,Delivered
+TRX1417,2025-01-04,CUST131,Yogyakarta,Olahraga,2865000,1,0,COD,25000,Cancelled
+TRX1258,2025-01-22,CUST063,Jakarta,Makanan,135000,1,0,E-Wallet,10000,Delivered
+TRX1464,2025-02-04,CUST144,Makassar,Olahraga,2543000,4,15,Credit Card,40000,Cancelled
+TRX1042,2025-01-26,CUST092,Medan,Kesehatan,302000,2,0,Credit Card,40000,Delayed
+TRX1132,2025-01-09,CUST029,Jakarta,Pakaian,91000,1,20,Transfer Bank,10000,Delayed
+TRX1009,2025-02-15,CUST070,Malang,Pakaian,415000,3,20,E-Wallet,25000,Delivered
+TRX1376,2025-02-01,CUST146,Depok,Pakaian,665000,4,20,Credit Card,10000,Delayed
+TRX1038,2025-01-10,CUST088,Medan,Kesehatan,705000,3,10,Credit Card,40000,Delivered
+TRX1128,2025-01-15,CUST093,Surabaya,Kesehatan,425000,,15,COD,25000,Delivered
+TRX1364,2025-02-02,CUST067,Bandung,Elektronik,7285000,3,10,Transfer Bank,10000,Delivered
+TRX1254,2025-02-28,CUST031,Bandung,Olahraga,1799000,1,15,Transfer Bank,10000,Delivered
+TRX1091,2025-02-28,CUST019,Medan,Kecantikan,257000,,10,Transfer Bank,40000,Cancelled
+TRX1039,2025-01-28,CUST024,Bali,Rumah Tangga,1260000,1,0,Transfer Bank,40000,Cancelled
+TRX1335,2025-02-11,CUST077,Bandung,Makanan,55000,,15,Transfer Bank,10000,Delivered
+TRX1473,2025-02-20,CUST126,Depok,Olahraga,,1,15,COD,10000,Delayed
+TRX1319,2025-01-15,CUST109,Surabaya,Kesehatan,910000,2,0,COD,25000,Delivered
+TRX1371,2025-01-07,CUST140,Jakarta,Makanan,114000,1,20,Credit Card,10000,Delivered
+TRX1422,2025-01-18,CUST076,,Makanan,54000,2,15,Transfer Bank,25000,Cancelled
+TRX1200,2025-01-23,CUST093,Malang,Pakaian,202000,5,20,Transfer Bank,25000,Delivered
+TRX1183,2025-01-12,CUST135,Malang,Olahraga,2279000,1,5,Credit Card,25000,Delivered
+TRX1424,2025-02-19,CUST119,Surabaya,Makanan,,3,10,E-Wallet,25000,Delivered
+TRX1101,2025-01-01,CUST041,Semarang,Olahraga,207000,1,0,Transfer Bank,25000,Delivered
+TRX1089,2025-01-24,CUST054,Medan,Kecantikan,135000,1,0,E-Wallet,40000,Delivered
+TRX1387,2025-02-13,CUST140,Bali,Elektronik,14405000,1,20,Transfer Bank,40000,Delivered
+TRX1356,2025-02-18,CUST003,Yogyakarta,Elektronik ,13233000,2,20,COD,25000,Delivered
+TRX1094,2025-02-02,CUST083,Depok,Kecantikan,77000,1,15,E-Wallet,10000,Cancelled
+TRX1168,2025-01-22,CUST109,Malang,Kecantikan,69000,1,0,Transfer Bank,25000,Delivered
+TRX1022,2025-01-03,CUST059,Surabaya,Elektronik,14922000,1,10,Transfer Bank,25000,Delivered
+TRX1172,2025-02-10,CUST060,Malang,Pakaian,400000,5,20,Credit Card,25000,Delivered
+TRX1054,2025-02-03,CUST132,Depok,Kecantikan,148000,3,20,Transfer Bank,10000,Cancelled
+TRX1423,2025-01-11,CUST057,Yogyakarta,Pakaian,397000,1,0,COD,25000,Delivered
+TRX1437,2025-01-20,CUST108,Surabaya,Olahraga,2741000,1,0,E-Wallet,25000,Delivered
+TRX1377,2025-01-10,CUST126,Jakarta,Elektronik,1442000,1,0,E-Wallet,10000,Delayed
+TRX1323,2025-02-19,CUST132,Surabaya,Pakaian,507000,4,0,Transfer Bank,25000,Cancelled
+TRX1445,2025-02-28,CUST108,Bandung,Elektronik,2723000,2,0,Transfer Bank,10000,Delivered
+TRX1165,2025-02-21,CUST017,Yogyakarta,Elektronik,9861000,,0,COD,25000,Cancelled
+TRX1112,2025-02-08,CUST145,Bandung,Pakaian,259000,1,20,Credit Card,10000,Delayed
+TRX1191,2025-01-27,CUST140,,Kecantikan,158000,1,15,COD,25000,Delivered
+TRX1331,2025-02-03,CUST065,Surabaya,Kecantikan,224000,1,15,COD,25000,Cancelled
+TRX1141,2025-02-02,CUST032,Bali,Kecantikan,493000,3,15,E-wallet,40000,Delivered
+TRX1086,2025-02-28,CUST030,Surabaya,Makanan,149000,1,15,E-Wallet,25000,Delivered
+TRX1216,2025-01-18,CUST028,Bali,Pakaian,352000,2,20,Credit Card,40000,Delivered
+TRX1156,2025-01-17,CUST136,Malang,Pakaian,441000,1,20,Transfer Bank,25000,Delivered
+TRX1069,2025-01-08,CUST006,Depok,Pakaian,325000,1,15,E-Wallet,10000,Delayed
+TRX1384,2025-01-19,CUST128,Bandung,Kecantikan,132000,1,0,Transfer Bank,10000,Cancelled
+TRX1343,2025-02-17,CUST129,Bali,Makanan,125000,1,10,Transfer Bank,40000,Delivered
+TRX1400,2025-01-14,CUST038,Depok,Kecantikan,385000,4,20,E-Wallet,10000,Delivered
+TRX1046,2025-02-11,CUST018,Semarang,Kecantikan,584000,,20,COD,25000,Delivered
+TRX1133,2025-01-11,CUST045,Semarang,Elektronik,2627000,2,10,E-Wallet,25000,Cancelled
+TRX1269,2025-01-02,CUST038,Jakarta,Kecantikan,488000,1,0,COD,10000,Delivered
+TRX1197,2025-01-13,CUST068,Semarang,Kesehatan,508000,1,10,COD,25000,Cancelled
+TRX1412,2025-02-18,CUST089,Bandung,Rumah Tangga,1185000,2,15,E-Wallet,10000,Delivered
+TRX1093,2025-02-04,CUST078,Bali,Kecantikan,575000,1,5,E-Wallet,40000,Delayed
+TRX1468,2025-02-21,CUST061,Malang,Rumah Tangga,1306000,2,0,Credit Card,25000,Delivered
+TRX1202,2025-01-03,CUST080,Bali,Kesehatan,794000,1,5,Credit Card,40000,Delayed
+TRX1107,2025-01-22,CUST127,Jakarta,Pakaian,602000,5,0,E-Wallet,10000,Delivered
+TRX1075,2025-02-26,CUST120,Bali,Rumah Tangga,1226000,1,0,E-Wallet,40000,Delivered
+TRX1477,2025-02-22,CUST098,Surabaya,Makanan,87000,1,0,E-Wallet,25000,Delayed
+TRX1005,2025-02-28,CUST068,Jakarta,Kesehatan,522000,1,5,E-Wallet,10000,Delayed
+TRX1070,2025-02-07,CUST066,Yogyakarta,Pakaian,,2,15,E-Wallet,25000,Delivered
+TRX1246,2025-02-23,CUST138,Medan,Rumah Tangga,1138000,2,10,E-Wallet,40000,Delayed
+TRX1324,2025-01-28,CUST064,Bandung,Kesehatan,378000,3,20,Credit Card,10000,Delivered
+TRX1293,2025-01-20,CUST118,Surabaya,Pakaian,394000,1,5,COD,25000,Delayed
+TRX1345,2025-02-23,CUST062,Jakarta,Pakaian,165000,4,0,Credit Card,10000,Delayed
+TRX1242,2025-01-08,CUST067,Bali,Pakaian,543000,2,0,COD,40000,Delayed
+TRX1213,2025-01-14,CUST041,Yogyakarta,Olahraga,1462000,1,0,Credit Card,25000,Delayed
+TRX1292,2025-02-09,CUST077,Makassar,Rumah Tangga,423000,1,0,Credit Card,40000,Delayed
+TRX1373,2025-02-02,CUST136,Yogyakarta,Rumah Tangga,,5,0,Transfer Bank,25000,Cancelled
+TRX1163,2025-02-26,CUST022,Malang,Kesehatan,221000,1,15,Credit Card,25000,Delivered
+TRX1346,2025-01-20,CUST080,Bandung,Elektronik ,712000,2,15,E-Wallet,10000,Delivered
+TRX1457,2025-02-06,CUST036,Bali,Elektronik,4766000,2,0,E-Wallet,40000,Delivered
+TRX1013,2025-01-25,CUST029,Bandung,Kesehatan,208000,2,5,E-Wallet,10000,Delivered
+TRX1214,2025-02-15,CUST079,Makassar,Elektronik,2011000,4,10,Credit Card,40000,Delivered
+TRX1212,2025-01-15,CUST069,Makassar,Pakaian,223000,1,0,Credit Card,40000,Delayed
+TRX1491,2025-01-04,CUST149,Makassar,Kecantikan,424000,1,15,Transfer Bank,40000,Delivered
+TRX1245,2025-01-08,CUST035,Makassar,Pakaian,552000,2,10,COD,40000,Delivered
+TRX1295,2025-01-20,CUST123,Yogyakarta,Pakaian,493000,5,0,Credit Card,25000,Delayed
+TRX1106,2025-02-08,CUST060,Bali,Elektronik,5838000,2,15,Credit Card,40000,Delivered
+TRX1012,2025-02-19,CUST150,Bali,Kecantikan,280000,5,0,Credit Card,40000,Delivered
+TRX1007,2025-01-28,CUST026,Bali,Kecantikan,525000,2,0,Transfer Bank,40000,Delivered
+TRX1462,2025-02-14,CUST141,Yogyakarta,Kesehatan,813000,4,15,Transfer Bank,25000,Delivered
+TRX1478,2025-02-27,CUST132,Malang,Makanan,148000,1,15,Transfer Bank,25000,Delivered
+TRX1311,2025-02-21,CUST100,Depok,Makanan,174000,1,0,Credit Card,10000,Delayed
+TRX1348,2025-01-04,CUST086,Bali,Kecantikan,599000,1,15,E-Wallet,40000,Delivered
+TRX1370,2025-02-10,CUST106,Malang,Makanan,36000,1,5,Transfer Bank,25000,Delivered
+TRX1426,2025-02-07,CUST105,Depok,Makanan,58000,1,15,Transfer Bank,10000,Delivered
+TRX1486,2025-01-06,CUST035,Bali,Rumah Tangga,2389000,1,15,Transfer Bank,40000,Delivered
+TRX1315,2025-02-02,CUST003,Makassar,Pakaian,280000,3,10,Credit Card,40000,Delivered
+TRX1342,2025-01-25,CUST005,Depok,Elektronik,731000,1,0,E-Wallet,10000,Delivered
+TRX1027,2025-01-26,CUST013,Malang,Rumah Tangga,162000,5,20,Transfer Bank,25000,Delivered
+TRX1140,2025-01-03,CUST024,Bali,Elektronik,12992000,2,20,Transfer Bank,40000,Delayed
+TRX1278,2025-01-22,CUST009,Surabaya,Makanan,119000,1,5,E-Wallet,25000,Cancelled
+TRX1281,2025-01-19,CUST046,Yogyakarta,Elektronik,3976000,1,20,Credit Card,25000,Delivered
+TRX1238,2025-02-10,CUST140,Malang,Makanan,55000,3,5,COD,25000,Delivered
+TRX1378,2025-01-16,CUST085,Depok,Pakaian,212000,1,0,COD,10000,Delivered
+TRX1433,2025-01-01,CUST058,Bandung,Pakaian,98000,1,0,E-Wallet,10000,Delivered
+TRX1365,2025-01-15,CUST036,Surabaya,Elektronik,1535000,3,0,Transfer Bank,25000,Delivered
+TRX1471,2025-01-06,CUST097,Jakarta,Makanan,93000,1,0,Transfer Bank,10000,Delayed
+TRX1180,2025-02-25,CUST061,Semarang,Elektronik,1301000,1,15,Credit Card,25000,Delivered
+TRX1142,2025-02-20,CUST091,Surabaya,Olahraga,2278000,1,15,E-wallet,25000,Delivered
+TRX1263,2025-01-18,CUST100,Medan,Kecantikan,263000,1,0,Credit Card,40000,Delivered
+TRX1204,2025-01-21,CUST034,Bali,Olahraga,382000,3,10,Transfer Bank,40000,Delivered
+TRX1121,2025-02-09,CUST076,Yogyakarta,Rumah Tangga,583000,1,0,Transfer Bank,25000,Delivered
+TRX1378,2025-01-16,CUST085,Depok,Pakaian,212000,1,0,COD,10000,Delivered
+TRX1327,2025-02-15,CUST017,Malang,Makanan,77000,5,20,Transfer Bank,25000,Delivered
+TRX1447,2025-01-27,CUST124,Makassar,Elektronik,7400000,1,0,COD,40000,Cancelled
+TRX1161,2025-01-03,CUST130,Bali,Makanan,172000,1,20,E-Wallet,40000,Delivered
+TRX1169,2025-02-25,CUST050,Medan,Pakaian,237000,1,20,E-Wallet,40000,Delayed
+TRX1078,2025-01-01,CUST022,,Kesehatan,466000,1,20,Transfer Bank,40000,Cancelled
+TRX1416,2025-02-13,CUST118,Semarang,Pakaian,564000,1,10,Credit Card,25000,Delayed
+TRX1181,2025-02-04,CUST138,Jakarta,Kesehatan,580000,1,15,Transfer Bank,10000,Delivered
+TRX1073,2025-02-18,CUST095,Surabaya,Olahraga,2866000,1,20,Credit Card,25000,Delivered
+TRX1095,2025-02-27,CUST148,Jakarta,Rumah Tangga,835000,1,15,Credit Card,10000,Delivered
+TRX1063,2025-01-25,CUST148,Bali,Makanan,22000,4,0,Credit Card,40000,Delivered
+TRX1290,2025-02-10,CUST100,Surabaya,Elektronik ,985000,1,0,Transfer Bank,25000,Cancelled
+TRX1090,2025-02-01,CUST116,Depok,Makanan,96000,1,0,COD,10000,Cancelled
+TRX1357,2025-01-07,CUST108,Makassar,Elektronik,2889000,2,0,E-Wallet,40000,Delivered
+TRX1427,2025-02-16,CUST046,Yogyakarta,Kesehatan,101000,1,0,Transfer Bank,25000,Delivered
+TRX1130,2025-02-26,CUST063,Bandung,Rumah Tangga,2468000,1,20,Transfer Bank,10000,Delayed
+TRX1262,2025-02-25,CUST062,Medan,Kecantikan,201000,3,0,Credit Card,40000,Delivered
+TRX1247,2025-02-15,CUST020,Depok,Elektronik,1536000,3,10,Transfer Bank,10000,Delayed
+TRX1147,2025-01-20,CUST014,Bandung,Pakaian,723000,1,0,COD,10000,Delivered
+TRX1231,2025-02-27,CUST038,Semarang,Elektronik,5326000,5,0,COD,25000,Delivered
+TRX1229,2025-01-16,CUST064,Semarang,Olahraga,1402000,1,0,COD,25000,Cancelled
+TRX1003,2025-02-21,CUST057,Makassar,Olahraga,1317000,3,0,Transfer Bank,40000,Cancelled
+TRX1019,2025-01-25,CUST033,Makassar,Olahraga,843000,1,20,Credit Card,40000,Delivered
+TRX1155,2025-01-13,CUST102,Semarang,Kesehatan,396000,1,20,Transfer Bank,25000,Delivered
+TRX1308,2025-01-06,CUST111,Bali,Elektronik,,2,0,Credit Card,40000,Delayed
+TRX1077,2025-02-06,CUST055,Yogyakarta,Rumah Tangga,1184000,1,10,COD,25000,Delayed
+TRX1404,2025-02-20,CUST010,,Kecantikan,473000,1,10,Credit Card,10000,Delivered
+TRX1334,2025-01-23,CUST123,Surabaya,Pakaian,477000,1,20,E-Wallet,25000,Delivered
+TRX1210,2025-02-15,CUST124,Makassar,Pakaian,432000,2,0,COD,40000,Cancelled
+TRX1294,2025-02-13,CUST113,Yogyakarta,Makanan,191000,5,0,COD,25000,Delivered
+TRX1453,2025-01-11,CUST128,Jakarta,Elektronik,7269000,1,10,E-Wallet,10000,Delivered
+TRX1483,2025-02-21,CUST111,Yogyakarta,Elektronik,7035000,2,10,E-Wallet,25000,Cancelled
+TRX1067,2025-02-11,CUST098,Semarang,Rumah Tangga,1868000,1,0,Credit Card,25000,Delivered
+TRX1451,2025-02-25,CUST083,Medan,Kecantikan,342000,1,0,Credit Card,40000,Delivered
+TRX1134,2025-02-03,CUST115,Yogyakarta,Olahraga,2640000,1,10,Transfer Bank,25000,Delayed
+TRX1145,2025-01-01,CUST037,Depok,Kesehatan,460000,1,15,E-Wallet,10000,Delivered
+TRX1185,2025-01-24,CUST149,Yogyakarta,Pakaian,121000,1,0,Transfer Bank,25000,Cancelled
+TRX1435,2025-01-04,CUST013,Surabaya,Makanan,136000,1,10,COD,25000,Delivered
+TRX1178,2025-01-05,CUST074,Makassar,Kesehatan,911000,,15,Credit Card,40000,Delivered
+TRX1159,2025-01-11,CUST113,Surabaya,Makanan,136000,2,20,COD,25000,Delayed
+TRX1289,2025-01-01,CUST091,Malang,Elektronik,10515000,1,0,Credit Card,25000,Delivered
+TRX1474,2025-01-08,CUST134,,Rumah Tangga,2219000,1,10,Credit Card,25000,Delivered
+TRX1298,2025-01-27,CUST105,Makassar,Pakaian,739000,1,0,Transfer Bank,40000,Cancelled
+TRX1411,2025-01-13,CUST008,,Kecantikan,563000,,0,Credit Card,40000,Delayed
+TRX1146,2025-01-24,CUST097,Bali,Makanan,109000,1,0,COD,40000,Delayed
+TRX1466,2025-01-02,CUST069,Bandung,Kecantikan,313000,1,0,COD,10000,Delivered
+TRX1104,2025-02-09,CUST088,Malang,Kecantikan,53000,1,0,Credit Card,25000,Delivered
+TRX1222,2025-02-11,CUST145,Semarang,Makanan,24000,1,15,E-Wallet,25000,Delivered
+TRX1484,2025-01-24,CUST150,Jakarta,Kesehatan,929000,1,10,E-Wallet,10000,Delivered
+TRX1176,2025-01-03,CUST116,Yogyakarta,Elektronik,7461000,1,10,COD,25000,Delivered
+TRX1338,2025-02-14,CUST036,Medan,Kecantikan,138000,1,10,COD,40000,Cancelled
+TRX1018,2025-02-27,CUST062,Jakarta,Pakaian,670000,4,0,Credit Card,10000,Delivered
+TRX1482,2025-02-26,CUST143,Surabaya,Olahraga,1105000,4,5,Credit Card,25000,Delivered
+TRX1021,2025-01-08,CUST017,Yogyakarta,Elektronik,10370000,1,10,Transfer Bank,25000,Delivered
+TRX1131,2025-01-07,CUST085,Bandung,Rumah Tangga,112000,1,0,Transfer Bank,10000,Delayed
+TRX1255,2025-01-25,CUST077,Makassar,Kesehatan,794000,1,10,Credit Card,40000,Delivered
+TRX1316,2025-02-22,CUST107,Makassar,Elektronik ,64000,1,0,E-wallet,40000,Delivered
+TRX1363,2025-01-10,CUST056,Yogyakarta,Pakaian,171000,2,0,Credit Card,25000,Delayed
+TRX1432,2025-02-17,CUST112,Bandung,Kecantikan,564000,1,0,Transfer Bank,10000,Delivered
+TRX1320,2025-02-15,CUST090,Surabaya,Makanan,51000,2,0,Transfer Bank,25000,Cancelled
+TRX1150,2025-01-20,CUST002,Medan,Kecantikan,271000,2,20,COD,40000,Delivered
+TRX1500,2025-02-05,CUST041,Bandung,Olahraga,2523000,2,0,Credit Card,10000,Delivered
+TRX1380,2025-02-22,CUST026,Yogyakarta,Kecantikan,388000,1,0,Credit Card,25000,Cancelled
+TRX1347,2025-02-16,CUST134,Malang,Rumah Tangga,1187000,1,0,COD,25000,Cancelled
+TRX1227,2025-01-05,CUST144,Yogyakarta,Kesehatan,542000,1,0,Transfer Bank,25000,Delivered
+TRX1228,2025-02-18,CUST140,Yogyakarta,Kesehatan,849000,3,15,COD,25000,Delayed
+TRX1189,2025-02-26,CUST112,Bali,Kesehatan,501000,,5,COD,40000,Delivered
+TRX1450,2025-01-27,CUST003,Bandung,Olahraga,2118000,3,20,Transfer Bank,10000,Delivered
+TRX1015,2025-01-11,CUST076,Bali,Pakaian,551000,,15,COD,40000,Delayed
+TRX1056,2025-01-14,CUST099,Makassar,Makanan,84000,1,15,E-Wallet,40000,Delivered
+TRX1076,2025-01-15,CUST119,Depok,Olahraga,2953000,1,0,Credit Card,10000,Delivered
+TRX1248,2025-01-18,CUST043,Yogyakarta,Rumah Tangga,2282000,1,15,Transfer Bank,25000,Cancelled
+TRX1040,2025-01-09,CUST114,Malang,Kesehatan,488000,1,0,E-Wallet,25000,Cancelled
+TRX1219,2025-02-26,CUST143,Yogyakarta,Rumah Tangga,705000,1,10,Credit Card,25000,Delayed
+TRX1479,2025-01-17,CUST025,Bandung,Rumah Tangga,2356000,1,15,E-Wallet,10000,Delivered
+TRX1279,2025-01-01,CUST022,Makassar,Rumah Tangga,1920000,2,0,E-Wallet,40000,Delayed
+TRX1354,2025-02-18,CUST003,Yogyakarta,Pakaian,381000,1,0,Transfer Bank,25000,Delivered
+TRX1208,2025-01-03,CUST148,Semarang,Kesehatan,,2,5,E-Wallet,25000,Delivered
+TRX1188,2025-01-02,CUST074,,Rumah Tangga,301000,3,0,COD,25000,Delivered
+TRX1179,2025-01-20,CUST021,Jakarta,Kecantikan,276000,3,10,Credit Card,10000,Delivered
+TRX1053,2025-02-14,CUST120,Makassar,Makanan,197000,1,5,Transfer Bank,40000,Cancelled
+TRX1393,2025-01-04,CUST053,Bandung,Kesehatan,346000,,5,E-Wallet,10000,Delivered
+TRX1452,2025-01-27,CUST021,Makassar,Makanan,170000,1,20,Credit Card,40000,Delivered
+TRX1268,2025-02-16,CUST026,Makassar,Rumah Tangga,1443000,,0,COD,40000,Delivered
+TRX1201,2025-02-26,CUST007,Yogyakarta,Olahraga,2550000,1,20,Transfer Bank,25000,Delayed
+TRX1352,2025-01-11,CUST107,Yogyakarta,Kecantikan,132000,1,0,E-Wallet,25000,Delivered
+TRX1100,2025-01-15,CUST053,Semarang,Olahraga,700000,4,5,Credit Card,25000,Delivered
+TRX1337,2025-02-22,CUST056,Surabaya,Elektronik,2849000,2,10,Credit Card,25000,Delivered
+TRX1267,2025-02-11,CUST098,Makassar,Olahraga,2871000,1,0,COD,40000,Delayed
+TRX1234,2025-02-04,CUST085,Makassar,Elektronik,11929000,2,0,Transfer Bank,40000,Delivered
+TRX1016,2025-01-25,CUST130,Surabaya,Rumah Tangga,1352000,3,10,Transfer Bank,25000,Delivered
+TRX1301,2025-02-22,CUST043,Depok,Elektronik,9949000,5,15,Credit Card,10000,Delivered
+TRX1340,2025-01-02,CUST127,Bali,Elektronik,4545000,1,10,E-Wallet,40000,Delayed
+TRX1318,2025-01-17,CUST147,Surabaya,Kecantikan,435000,1,20,E-Wallet,25000,Cancelled
+TRX1270,2025-01-13,CUST128,Malang,Kesehatan,758000,1,20,Credit Card,25000,Cancelled
+TRX1105,2025-02-15,CUST089,Yogyakarta,Olahraga,2429000,1,0,Transfer Bank,25000,Cancelled
+TRX1043,2025-01-24,CUST061,Bandung,Rumah Tangga,843000,3,0,Transfer Bank,10000,Cancelled
+TRX1061,2025-01-11,CUST036,Bandung,Pakaian,477000,2,15,Transfer Bank,10000,Delivered
+TRX1218,2025-02-17,CUST141,Semarang,Rumah Tangga,598000,1,0,Credit Card,25000,Delivered
+TRX1193,2025-02-14,CUST015,Surabaya,Kesehatan,708000,1,10,Transfer Bank,25000,Delivered
+TRX1461,2025-02-13,CUST064,Semarang,Makanan,110000,5,5,Transfer Bank,25000,Delivered
+TRX1285,2025-02-12,CUST111,Bandung,Elektronik ,654000,2,0,COD,10000,Delivered
+TRX1058,2025-01-15,CUST119,Malang,Olahraga,2648000,1,20,Credit Card,25000,Delayed
+TRX1419,2025-01-05,CUST015,Depok,Makanan,193000,1,0,E-Wallet,10000,Cancelled
+TRX1493,2025-01-19,CUST145,Depok,Kecantikan,382000,5,0,E-Wallet,10000,Delivered
+TRX1013,2025-01-25,CUST029,Bandung,Kesehatan,208000,2,5,E-Wallet,10000,Delivered
+TRX1026,2025-02-07,CUST036,Bali,Pakaian,367000,1,20,E-Wallet,40000,Delivered
+TRX1141,2025-02-02,CUST032,Bali,Kecantikan,493000,3,15,E-wallet,40000,Delivered
+TRX1385,2025-02-03,CUST115,Jakarta,Kecantikan,270000,1,0,COD,10000,Delivered
+TRX1252,2025-01-02,CUST121,Jakarta,Kecantikan,479000,1,0,Credit Card,10000,Delivered
+TRX1397,2025-01-08,CUST100,Malang,Makanan,160000,2,5,Transfer Bank,25000,Delivered
+TRX1114,2025-01-22,CUST120,Semarang,Kesehatan,613000,1,5,COD,25000,Delayed
+TRX1020,2025-01-18,CUST080,Bali,Kesehatan,721000,1,10,Credit Card,40000,Delivered
+TRX1421,2025-01-24,CUST137,Makassar,Kesehatan,416000,1,20,Transfer Bank,40000,Cancelled
+TRX1090,2025-02-01,CUST116,Depok,Makanan,96000,1,0,COD,10000,Cancelled
+TRX1250,2025-01-19,CUST144,Makassar,Kesehatan,886000,1,0,Credit Card,40000,Delivered
+TRX1119,2025-01-04,CUST080,Makassar,Elektronik,10224000,1,0,E-wallet,40000,Delivered
+TRX1485,2025-02-26,CUST023,Semarang,Rumah Tangga,1936000,1,20,E-Wallet,25000,Delivered
+TRX1375,2025-01-27,CUST046,Medan,Olahraga,1484000,3,15,COD,40000,Delayed
+TRX1303,2025-02-12,CUST119,Depok,Kesehatan,565000,1,0,Credit Card,10000,Delivered
+TRX1313,2025-01-23,CUST131,Bali,Makanan,176000,1,5,Credit Card,40000,Delivered
+TRX1115,2025-02-10,CUST065,Makassar,Rumah Tangga,1367000,1,5,Credit Card,40000,Delivered
+TRX1405,2025-02-13,CUST061,Jakarta,Kesehatan,538000,4,0,E-Wallet,10000,Delivered
+TRX1266,2025-01-24,CUST123,Medan,Kesehatan,674000,2,5,Transfer Bank,40000,Delayed
+TRX1458,2025-02-07,CUST049,Yogyakarta,Elektronik,13203000,1,15,E-Wallet,25000,Delivered
+TRX1469,2025-02-14,CUST142,Jakarta,Elektronik,12977000,1,10,Credit Card,10000,Delivered
+TRX1347,2025-02-16,CUST134,Malang,Rumah Tangga,1187000,1,0,COD,25000,Cancelled
+TRX1499,2025-01-17,CUST102,Yogyakarta,Olahraga,194000,2,20,Transfer Bank,25000,Delayed
+TRX1494,2025-01-08,CUST112,Semarang,Rumah Tangga,1608000,,15,COD,25000,Delivered
+TRX1087,2025-02-05,CUST022,Medan,Elektronik,9863000,2,10,Transfer Bank,40000,Delayed
+TRX1439,2025-02-18,CUST054,Makassar,Kecantikan,296000,1,15,E-Wallet,40000,Delivered
+TRX1207,2025-01-19,CUST044,Depok,Kesehatan,986000,2,20,E-Wallet,10000,Delivered
+TRX1032,2025-01-20,CUST061,Bali,Elektronik   ,10058000,1,10,E-Wallet,40000,Delayed
+TRX1051,2025-02-14,CUST104,Semarang,Olahraga,684000,1,15,Credit Card,25000,Cancelled
+TRX1028,2025-02-14,CUST124,Medan,Rumah Tangga,1782000,4,0,Credit Card,40000,Delivered
+TRX1362,2025-01-12,CUST116,Semarang,Makanan,89000,3,0,Transfer Bank,25000,Cancelled
+TRX1211,2025-02-28,CUST103,Bandung,Rumah Tangga,1654000,1,0,COD,10000,Delivered
+TRX1304,2025-02-10,CUST022,Surabaya,Rumah Tangga,,1,0,Credit Card,25000,Delivered
+TRX1436,2025-01-23,CUST053,Jakarta,Kecantikan,491000,2,15,COD,10000,Delayed
+TRX1221,2025-01-20,CUST084,Depok,Kecantikan,220000,1,10,COD,10000,Delayed
+TRX1480,2025-01-22,CUST109,Surabaya,Pakaian,639000,3,15,Credit Card,25000,Cancelled
+TRX1049,2025-02-02,CUST001,Malang,Rumah Tangga,2358000,2,15,Transfer Bank,25000,Delivered
+TRX1098,2025-02-03,CUST065,Yogyakarta,Elektronik,13461000,,10,E-Wallet,25000,Cancelled
+TRX1209,2025-02-21,CUST078,Makassar,Pakaian,501000,1,0,E-Wallet,40000,Delivered
+TRX1305,2025-02-17,CUST090,Makassar,Elektronik,7851000,2,5,COD,40000,Delivered
+TRX1125,2025-01-14,CUST036,Jakarta,Elektronik,5606000,5,0,E-Wallet,10000,Delivered
+TRX1243,2025-01-24,CUST067,Yogyakarta,Elektronik ,288000,1,0,Credit Card,25000,Delivered
+TRX1068,2025-01-24,CUST090,Medan,Kesehatan,112000,2,15,E-Wallet,40000,Delivered
+TRX1110,2025-01-02,CUST061,Semarang,Pakaian,170000,1,0,E-Wallet,25000,Delivered
+TRX1314,2025-01-16,CUST143,Bandung,Makanan,96000,1,0,Credit Card,10000,Delayed
+TRX1443,2025-01-28,CUST044,Yogyakarta,Kecantikan,509000,5,0,E-Wallet,25000,Delivered
+TRX1122,2025-02-28,CUST143,Yogyakarta,Elektronik,13765000,1,0,E-Wallet,25000,Delivered
+TRX1264,2025-01-03,CUST014,Semarang,Makanan,197000,2,0,E-Wallet,25000,Delivered
+TRX1388,2025-01-15,CUST009,Semarang,Elektronik,5847000,1,0,E-Wallet,25000,Delivered
+TRX1170,2025-01-25,CUST087,Depok,Pakaian,701000,1,0,Transfer Bank,10000,Cancelled
+TRX1408,2025-02-07,CUST125,Malang,Rumah Tangga,1668000,3,10,Transfer Bank,25000,Delivered
+TRX1035,2025-01-20,CUST019,Malang,Pakaian,605000,1,0,E-Wallet,25000,Delivered
+TRX1287,2025-02-13,CUST093,Surabaya,Elektronik,587000,4,5,COD,25000,Delivered
+TRX1033,2025-02-03,CUST150,Depok,Olahraga,1477000,4,0,COD,10000,Delivered
+TRX1429,2025-02-16,CUST002,Jakarta,Olahraga,986000,2,0,COD,10000,Delayed
+TRX1495,2025-02-15,CUST092,Semarang,Makanan,165000,1,15,E-Wallet,25000,Delivered
+TRX1379,2025-01-01,CUST037,Surabaya,Rumah Tangga,2307000,3,0,COD,25000,Cancelled
+TRX1409,2025-02-10,CUST035,Malang,Olahraga,271000,1,20,Transfer Bank,25000,Delivered
+TRX1359,2025-02-27,CUST020,Depok,Olahraga,411000,1,0,Transfer Bank,10000,Delivered
+TRX1011,2025-02-21,CUST102,Makassar,Pakaian,353000,1,15,COD,40000,Cancelled
+TRX1174,2025-01-26,CUST065,Jakarta,Kesehatan,544000,3,10,E-Wallet,10000,Cancelled
+TRX1366,2025-02-27,CUST096,Surabaya,Olahraga,2608000,1,20,E-Wallet,25000,Delivered
+TRX1116,2025-02-08,CUST147,Yogyakarta,Olahraga,1391000,5,0,E-Wallet,25000,Cancelled
+TRX1390,2025-02-01,CUST043,Depok,Makanan,61000,1,0,Transfer Bank,10000,Delivered
+TRX1062,2025-02-14,CUST085,Malang,Makanan,129000,1,20,Credit Card,25000,Delivered
+TRX1232,2025-02-21,CUST123,Medan,Pakaian,640000,1,10,COD,40000,Delivered
+TRX1265,2025-01-26,CUST123,Medan,Rumah Tangga,1497000,1,0,Transfer Bank,40000,Delivered
+TRX1225,2025-01-27,CUST009,Depok,Kesehatan,155000,1,5,COD,10000,Delivered
+TRX1430,2025-01-07,CUST002,Medan,Pakaian,436000,1,0,Credit Card,40000,Delayed
+TRX1381,2025-02-16,CUST045,Malang,Kesehatan,,4,20,COD,25000,Delivered
+TRX1160,2025-02-02,CUST130,Surabaya,Kecantikan,534000,1,0,COD,25000,Delivered
+TRX1103,2025-01-16,CUST117,Malang,Pakaian,477000,1,10,E-wallet,25000,Delivered
+TRX1395,2025-02-12,CUST095,Bandung,Makanan,32000,1,5,COD,10000,Delivered
+TRX1399,2025-02-25,CUST045,Bandung,Pakaian,277000,1,5,E-Wallet,10000,Cancelled
+TRX1401,2025-02-13,CUST142,Yogyakarta,Rumah Tangga,1258000,1,20,E-Wallet,25000,Cancelled
+TRX1456,2025-01-04,CUST001,Yogyakarta,Kecantikan,356000,1,0,E-Wallet,25000,Delivered
+TRX1392,2025-02-02,CUST001,Bali,Elektronik,5442000,3,15,Credit Card,40000,Delivered
+TRX1085,2025-01-28,CUST147,Semarang,Makanan,145000,1,0,E-Wallet,25000,Delivered
+TRX1282,2025-01-10,CUST145,Medan,Olahraga,1782000,2,10,COD,40000,Delivered
+TRX1244,2025-02-06,CUST129,Semarang,Kesehatan,163000,2,0,COD,25000,Delayed
+TRX1066,2025-02-21,CUST035,Makassar,Pakaian,128000,1,0,Transfer Bank,40000,Delivered
+TRX1065,2025-02-22,CUST043,Makassar,Pakaian,727000,1,5,E-Wallet,40000,Delivered
+TRX1273,2025-01-14,CUST060,Surabaya,Kesehatan,,1,10,Credit Card,25000,Delivered
+TRX1455,2025-02-28,CUST085,Malang,Rumah Tangga,2084000,2,0,Credit Card,25000,Delivered
+TRX1249,2025-02-19,CUST024,Malang,Makanan,35000,1,10,Credit Card,25000,Delivered
+TRX1044,2025-02-11,CUST064,Semarang,Pakaian,188000,1,0,Credit Card,25000,Delivered
+TRX1449,2025-01-17,CUST111,Medan,Elektronik ,111000,2,15,Credit Card,40000,Delivered
+TRX1402,2025-02-20,CUST029,Bali,Pakaian,230000,1,10,E-Wallet,40000,Delivered
+TRX1124,2025-02-20,CUST057,Surabaya,Kesehatan,904000,1,15,COD,25000,Cancelled
+TRX1030,2025-01-10,CUST015,Depok,Kesehatan,609000,1,0,E-Wallet,10000,Delivered
+TRX1123,2025-02-12,CUST150,Bali,Rumah Tangga,1658000,1,0,Credit Card,40000,Delivered
+TRX1158,2025-02-25,CUST119,Depok,Rumah Tangga,1983000,2,10,COD,10000,Cancelled
+TRX1380,2025-02-22,CUST026,Yogyakarta,Kecantikan,388000,1,0,Credit Card,25000,Cancelled
+TRX1355,2025-02-12,CUST051,Malang,Rumah Tangga,1128000,1,5,E-Wallet,25000,Delivered
+TRX1010,2025-01-27,CUST081,Bali,Kecantikan,119000,,10,COD,40000,Delivered
+TRX1251,2025-01-27,CUST056,Depok,Elektronik,1260000,1,15,E-Wallet,10000,Delayed
+TRX1166,2025-01-28,CUST086,Surabaya,Olahraga,2933000,1,0,COD,25000,Cancelled
+TRX1307,2025-01-08,CUST142,Bandung,Kecantikan,497000,5,0,Credit Card,10000,Cancelled
+TRX1001,2025-01-21,CUST007,Semarang,Pakaian,309000,1,0,E-Wallet,25000,Delayed
+TRX1272,2025-01-18,CUST135,Jakarta,Rumah Tangga,412000,4,15,E-Wallet,10000,Delivered
+TRX1277,2025-02-26,CUST021,Yogyakarta,Makanan,140000,1,15,Transfer Bank,25000,Delivered
+TRX1083,2025-01-27,CUST076,Medan,Kecantikan,238000,1,15,Transfer Bank,40000,Delivered
+TRX1192,2025-02-15,CUST043,Makassar,Kecantikan,519000,1,20,COD,40000,Delayed
+TRX1372,2025-02-19,CUST100,Semarang,Pakaian,102000,1,0,E-Wallet,25000,Delivered
+TRX1115,2025-02-10,CUST065,Makassar,Rumah Tangga,1367000,1,5,Credit Card,40000,Delivered
+TRX1440,2025-02-27,CUST039,Surabaya,Rumah Tangga,2246000,1,15,E-Wallet,25000,Delivered
+TRX1341,2025-02-01,CUST082,Bandung,Makanan,169000,1,10,Transfer Bank,10000,Delivered
+TRX1418,2025-02-04,CUST017,Yogyakarta,Kecantikan,391000,3,0,COD,25000,Delivered
+TRX1153,2025-02-19,CUST147,Bali,Kesehatan,711000,1,0,Credit Card,40000,Delivered
+TRX1321,2025-02-19,CUST110,Bandung,Olahraga,734000,2,20,Transfer Bank,10000,Delivered
+TRX1055,2025-01-10,CUST051,Bandung,Elektronik,1275000,,5,E-Wallet,10000,Delivered
+TRX1260,2025-02-10,CUST016,Malang,Olahraga,885000,2,5,Credit Card,25000,Delivered
+TRX1092,2025-02-05,CUST037,Surabaya,Elektronik,3284000,2,10,COD,25000,Delivered
+TRX1257,2025-02-26,CUST005,Medan,Pakaian,146000,1,0,Credit Card,40000,Delayed
+TRX1386,2025-01-26,CUST001,,Makanan,135000,2,0,Credit Card,10000,Delivered
+TRX1002,2025-01-14,CUST008,Surabaya,Pakaian,319000,1,0,Transfer Bank,25000,Cancelled
+TRX1460,2025-01-25,CUST149,Bandung,Kesehatan,895000,1,5,COD,10000,Delayed
+TRX1081,2025-02-23,CUST070,Semarang,Kecantikan,292000,1,0,COD,25000,Delivered
+TRX1223,2025-02-19,CUST007,Depok,Makanan,90000,5,20,Transfer Bank,10000,Cancelled
+TRX1465,2025-02-24,CUST109,Jakarta,Olahraga,597000,1,0,E-Wallet,10000,Cancelled
+TRX1058,2025-01-15,CUST119,Malang,Olahraga,2648000,1,20,Credit Card,25000,Delayed
+TRX1489,2025-01-14,CUST042,Bandung,Pakaian,722000,3,0,E-Wallet,10000,Delivered
+TRX1329,2025-01-22,CUST012,Surabaya,Kesehatan,862000,3,0,E-Wallet,25000,Delivered
+TRX1433,2025-01-01,CUST058,Bandung,Pakaian,98000,1,0,E-Wallet,10000,Delivered
+TRX1470,2025-02-21,CUST140,Depok,Pakaian,278000,1,0,E-Wallet,10000,Delivered
+TRX1431,2025-02-19,CUST043,Surabaya,Rumah Tangga,292000,1,0,Credit Card,25000,Cancelled
+TRX1059,2025-02-27,CUST141,Makassar,Pakaian,573000,1,20,Transfer Bank,40000,Cancelled
+TRX1369,2025-01-12,CUST048,Semarang,Kecantikan,518000,3,0,Transfer Bank,25000,Cancelled
+TRX1006,2025-02-10,CUST148,Medan,Kesehatan,113000,1,0,COD,40000,Delivered
+TRX1284,2025-02-11,CUST084,Jakarta,Kesehatan,327000,2,5,Credit Card,10000,Delivered
+TRX1129,2025-02-13,CUST049,Surabaya,Rumah Tangga,2007000,1,0,E-Wallet,25000,Delivered
+TRX1271,2025-02-21,CUST118,Bandung,Elektronik ,874000,1,0,E-wallet,10000,Delivered
+TRX1240,2025-02-24,CUST076,Depok,Kesehatan,834000,1,10,Credit Card,10000,Delivered
+TRX1126,2025-01-18,CUST100,Makassar,Kecantikan,489000,1,15,Transfer Bank,40000,Delivered
+TRX1196,2025-02-12,CUST081,Semarang,Pakaian,194000,1,0,Credit Card,25000,Delayed
+TRX1198,2025-01-16,CUST032,Bandung,Rumah Tangga,411000,1,15,Credit Card,10000,Delivered
+TRX1033,2025-02-03,CUST150,Depok,Olahraga,1477000,4,0,COD,10000,Delivered
+TRX1306,2025-01-10,CUST030,Jakarta,Rumah Tangga,1539000,2,15,Transfer Bank,10000,Cancelled
+TRX1490,2025-01-22,CUST141,Makassar,Kesehatan,616000,1,15,E-Wallet,40000,Delivered
+TRX1349,2025-02-15,CUST015,Makassar,Rumah Tangga,,1,0,COD,40000,Delivered
+TRX1492,2025-01-10,CUST050,Yogyakarta,Makanan,138000,1,15,COD,25000,Cancelled
+TRX1463,2025-02-07,CUST089,Bandung,Kesehatan,722000,5,0,COD,10000,Cancelled
+TRX1079,2025-02-16,CUST115,Jakarta,Elektronik,5436000,1,15,Transfer Bank,10000,Delivered
+TRX1057,2025-02-25,CUST057,Bandung,Rumah Tangga,2272000,1,10,Transfer Bank,10000,Delivered
+TRX1025,2025-01-21,CUST016,Bali,Kesehatan,396000,3,0,Transfer Bank,40000,Delivered
+TRX1047,2025-02-04,CUST046,Depok,Kecantikan,90000,1,5,COD,10000,Cancelled
+TRX1253,2025-02-13,CUST097,Bali,Elektronik,11954000,5,20,Transfer Bank,40000,Cancelled
+TRX1261,2025-02-12,CUST135,Yogyakarta,Kesehatan,477000,1,0,Credit Card,25000,Delivered
+TRX1071,2025-01-10,CUST149,,Kecantikan,444000,1,15,Transfer Bank,10000,Delivered
+TRX1497,2025-02-19,CUST055,Jakarta,Olahraga,1243000,1,10,Credit Card,10000,Cancelled
+TRX1459,2025-01-15,CUST128,Jakarta,Olahraga,354000,1,5,Credit Card,10000,Delayed
+TRX1205,2025-01-06,CUST083,Medan,Kecantikan,594000,3,20,E-Wallet,40000,Delivered
+TRX1299,2025-02-14,CUST019,Makassar,Olahraga,2160000,1,10,Credit Card,40000,Delayed
+TRX1220,2025-01-02,CUST010,Bandung,Kesehatan,389000,3,10,Credit Card,10000,Delivered
+TRX1300,2025-02-02,CUST138,Depok,Kesehatan,999000,1,20,Transfer Bank,10000,Cancelled
+TRX1383,2025-02-19,CUST146,Jakarta,Pakaian,707000,1,20,Transfer Bank,10000,Cancelled
+TRX1135,2025-02-02,CUST118,Jakarta,Elektronik,8536000,3,5,E-Wallet,10000,Delivered
+TRX1276,2025-01-04,CUST135,Bandung,Pakaian,276000,2,0,COD,10000,Delivered
+TRX1072,2025-01-19,CUST027,Semarang,Rumah Tangga,608000,2,10,E-Wallet,25000,Delivered
+TRX1382,2025-01-22,CUST097,Semarang,Kesehatan,762000,1,0,E-Wallet,25000,Cancelled
+TRX1127,2025-01-21,CUST126,Depok,Makanan,93000,1,0,Transfer Bank,10000,Delivered
+TRX1072,2025-01-19,CUST027,Semarang,Rumah Tangga,608000,2,10,E-Wallet,25000,Delivered
+TRX1475,2025-01-12,CUST055,Yogyakarta,Kecantikan,428000,1,20,Credit Card,25000,Delayed
+TRX1074,2025-02-04,CUST093,Makassar,Kesehatan,200000,1,15,COD,40000,Delayed
+TRX1235,2025-02-21,CUST123,Medan,Rumah Tangga,1305000,1,15,E-Wallet,40000,Delivered
+TRX1330,2025-02-15,CUST001,Bali,Pakaian,213000,3,0,Transfer Bank,40000,Delivered
+TRX1203,2025-01-03,CUST082,Surabaya,Makanan,142000,2,0,Transfer Bank,25000,Delayed
+TRX1256,2025-02-08,CUST089,Bandung,Kecantikan,248000,4,15,E-Wallet,10000,Delivered
+TRX1336,2025-01-17,CUST043,Makassar,Kecantikan,273000,2,0,Credit Card,40000,Delayed
+TRX1403,2025-01-19,CUST074,Malang,Kecantikan,481000,1,15,Credit Card,25000,Delayed
+TRX1407,2025-02-05,CUST114,,Kecantikan,487000,,0,Transfer Bank,25000,Delivered
+TRX1368,2025-01-15,CUST044,Depok,Makanan,124000,1,5,Credit Card,10000,Delivered
+TRX1291,2025-01-13,CUST036,Semarang,Kecantikan,331000,1,0,Transfer Bank,25000,Delivered
+TRX1109,2025-02-11,CUST021,Yogyakarta,Rumah Tangga,2338000,1,0,Credit Card,25000,Delayed
+TRX1034,2025-02-09,CUST034,,Makanan,103000,4,0,E-Wallet,25000,Delivered
+TRX1138,2025-01-21,CUST111,Makassar,Pakaian,509000,1,5,Credit Card,40000,Delivered
+TRX1206,2025-02-07,CUST033,Semarang,Elektronik ,2388000,1,15,Transfer Bank,25000,Delayed
+TRX1162,2025-01-26,CUST083,Depok,Makanan,151000,1,0,Credit Card,10000,Delivered
+TRX1017,2025-01-12,CUST139,Malang,Elektronik,10549000,1,0,E-Wallet,25000,Delivered
+TRX1118,2025-01-25,CUST091,Medan,Kesehatan,239000,2,15,Transfer Bank,40000,Cancelled
+TRX1029,2025-02-13,CUST117,Semarang,Makanan,166000,2,5,Transfer Bank,25000,Delivered
+TRX1398,2025-01-10,CUST102,Jakarta,Olahraga,2546000,4,20,Transfer Bank,10000,Delivered
+TRX1394,2025-02-26,CUST121,Makassar,Kesehatan,318000,1,10,Credit Card,40000,Delivered
+TRX1167,2025-02-23,CUST034,Depok,Kesehatan,129000,1,5,COD,10000,Delivered
+TRX1351,2025-02-16,CUST099,Bandung,Pakaian,112000,1,15,Credit Card,10000,Delivered
+TRX1328,2025-02-09,CUST073,Yogyakarta,Olahraga,2574000,1,20,Credit Card,25000,Delivered
+TRX1286,2025-01-23,CUST022,Semarang,Pakaian,473000,2,15,Transfer Bank,25000,Cancelled
+TRX1353,2025-01-08,CUST103,Surabaya,Makanan,94000,2,0,COD,25000,Delivered
+TRX1328,2025-02-09,CUST073,Yogyakarta,Olahraga,2574000,1,20,Credit Card,25000,Delivered
+TRX1139,2025-01-24,CUST081,Bali,Kecantikan,317000,1,0,Credit Card,40000,Delivered
+TRX1496,2025-01-28,CUST138,Medan,Kecantikan,130000,2,0,E-Wallet,40000,Delayed
+TRX1237,2025-02-26,CUST048,Semarang,Elektronik,655000,1,10,E-wallet,25000,Delivered
+TRX1448,2025-01-11,CUST135,,Kesehatan,632000,1,15,COD,10000,Delayed
+TRX1126,2025-01-18,CUST100,Makassar,Kecantikan,489000,1,15,Transfer Bank,40000,Delivered
+TRX1472,2025-02-28,CUST002,Yogyakarta,Makanan,61000,1,0,E-Wallet,25000,Cancelled
+TRX1274,2025-02-02,CUST125,Jakarta,Elektronik,9429000,1,0,E-Wallet,10000,Delayed
+TRX1088,2025-02-13,CUST114,Semarang,Rumah Tangga,1899000,1,10,E-Wallet,25000,Delayed
+TRX1441,2025-01-21,CUST117,Semarang,Kecantikan,537000,1,20,Transfer Bank,25000,Delivered
+TRX1312,2025-02-06,CUST022,Bandung,Kecantikan,174000,1,0,Transfer Bank,10000,Delivered
+TRX1037,2025-02-27,CUST027,Bandung,Kecantikan,171000,3,15,Transfer Bank,10000,Delivered
+TRX1332,2025-01-23,CUST110,Surabaya,Kesehatan,140000,1,5,E-Wallet,25000,Delivered
+TRX1350,2025-01-19,CUST059,Malang,Elektronik,1239000,3,0,Transfer Bank,25000,Delivered
+TRX1380,2025-02-22,CUST026,Yogyakarta,Kecantikan,388000,1,0,Credit Card,25000,Cancelled
+TRX1137,2025-02-20,CUST117,Malang,Olahraga,1954000,1,15,E-Wallet,25000,Cancelled
+TRX1344,2025-02-03,CUST021,Malang,Pakaian,238000,1,5,E-Wallet,25000,Delivered
+TRX1108,2025-02-04,CUST004,Bandung,Makanan,192000,5,0,Credit Card,10000,Delivered
+TRX1182,2025-01-14,CUST091,Medan,Olahraga,1897000,1,15,E-Wallet,40000,Delayed
+TRX1190,2025-02-16,CUST095,Malang,Kecantikan,137000,2,0,Credit Card,25000,Delayed
+TRX1084,2025-01-02,CUST142,Semarang,Kesehatan,,2,20,Credit Card,25000,Delivered
+TRX1187,2025-01-07,CUST052,Jakarta,Kecantikan,375000,1,20,Credit Card,10000,Delivered
+TRX1428,2025-01-19,CUST126,,Pakaian,,1,5,Credit Card,25000,Delivered
+TRX1326,2025-02-17,CUST095,,Makanan,106000,1,20,E-Wallet,40000,Cancelled
+TRX1233,2025-01-04,CUST063,Jakarta,Kesehatan,989000,1,15,Transfer Bank,10000,Delivered
+TRX1488,2025-02-20,CUST138,Malang,Elektronik,5612000,1,15,COD,25000,Delivered
+TRX1481,2025-01-27,CUST040,Jakarta,Makanan,107000,1,0,E-Wallet,10000,Delivered
+TRX1052,2025-01-24,CUST146,Semarang,Makanan,164000,3,0,COD,25000,Delivered
+TRX1444,2025-02-27,CUST047,Surabaya,Makanan,125000,5,0,Credit Card,25000,Cancelled
+TRX1120,2025-02-11,CUST045,Medan,Pakaian,641000,3,0,COD,40000,Delivered
+TRX1438,2025-01-07,CUST068,Malang,Pakaian,450000,,0,Transfer Bank,25000,Delivered
+TRX1467,2025-01-25,CUST092,Makassar,Elektronik,10837000,3,15,Transfer Bank,40000,Cancelled
+TRX1149,2025-01-14,CUST073,Depok,Makanan,158000,2,0,Transfer Bank,10000,Delivered
+TRX1396,2025-02-27,CUST145,Jakarta,Elektronik ,176000,1,0,Credit Card,10000,Delayed
+TRX1117,2025-02-13,CUST003,Depok,Rumah Tangga,306000,4,15,Credit Card,10000,Delivered
+TRX1339,2025-02-01,CUST053,Malang,Olahraga,,1,5,COD,25000,Cancelled
+TRX1024,2025-01-07,CUST025,Bali,Kecantikan,494000,1,20,E-Wallet,40000,Cancelled
+TRX1036,2025-02-12,CUST041,Makassar,Rumah Tangga,2378000,2,10,E-Wallet,40000,Cancelled
+TRX1361,2025-01-25,CUST040,Surabaya,Pakaian,546000,1,5,E-Wallet,25000,Delayed
+TRX1099,2025-02-28,CUST106,Jakarta,Pakaian,619000,1,20,Credit Card,10000,Cancelled
+TRX1296,2025-01-26,CUST084,Bali,Kecantikan,462000,1,10,Transfer Bank,40000,Delayed
+TRX1186,2025-02-15,CUST047,Bandung,Elektronik,12513000,2,5,E-Wallet,10000,Delivered
+TRX1442,2025-02-28,CUST093,Yogyakarta,Makanan,50000,,20,E-Wallet,25000,Delivered
+TRX1454,2025-02-26,CUST131,Malang,Pakaian,553000,5,0,E-Wallet,25000,Delivered
+TRX1317,2025-02-02,CUST058,Malang,Kecantikan,226000,2,10,Credit Card,25000,Delayed
+TRX1322,2025-02-19,CUST137,Semarang,Olahraga,2410000,1,15,COD,25000,Delivered
+TRX1425,2025-01-07,CUST098,Malang,Kecantikan,483000,1,20,Transfer Bank,25000,Delivered
+TRX1151,2025-01-11,CUST002,Makassar,Kesehatan,492000,,5,Transfer Bank,40000,Delayed
+TRX1283,2025-01-25,CUST021,Malang,Kesehatan,403000,1,5,Transfer Bank,25000,Delivered
+TRX1041,2025-01-05,CUST095,,Olahraga,771000,1,0,COD,10000,Delivered
+TRX1194,2025-02-05,CUST009,Bandung,Elektronik,4459000,2,0,COD,10000,Delivered
+TRX1064,2025-01-18,CUST125,Medan,Kecantikan,507000,1,5,COD,40000,Cancelled
+TRX1275,2025-02-24,CUST138,Semarang,Elektronik,8926000,3,15,Credit Card,25000,Delivered
+TRX1236,2025-01-21,CUST137,Jakarta,Pakaian,513000,3,0,E-Wallet,10000,Delivered
+TRX1374,2025-02-08,CUST137,Jakarta,Rumah Tangga,1020000,1,20,Credit Card,10000,Delivered
+TRX1023,2025-02-22,CUST055,Malang,Pakaian,674000,1,0,Credit Card,25000,Delivered
+TRX1414,2025-02-07,CUST105,Malang,Elektronik,13591000,5,15,E-Wallet,25000,Delivered
+TRX1136,2025-02-23,CUST019,Surabaya,Kecantikan,206000,1,0,COD,25000,Delivered
+TRX1310,2025-01-04,CUST094,Yogyakarta,Pakaian,555000,1,15,Credit Card,25000,Delayed
+TRX1177,2025-01-13,CUST096,Medan,Elektronik,5847000,4,20,COD,40000,Delivered
+TRX1434,2025-01-23,CUST097,Semarang,Rumah Tangga,2343000,2,10,E-Wallet,25000,Cancelled
+TRX1184,2025-02-21,CUST096,Semarang,Kesehatan,57000,1,0,COD,25000,Delivered
+TRX1050,2025-01-14,CUST085,Depok,Kecantikan,181000,2,0,COD,10000,Cancelled
+TRX1195,2025-01-19,CUST040,Makassar,Kecantikan,440000,1,0,E-wallet,40000,Delayed
+TRX1048,2025-02-26,CUST112,Depok,Olahraga,635000,1,10,Transfer Bank,10000,Delivered
+TRX1053,2025-02-14,CUST120,Makassar,Makanan,197000,1,5,Transfer Bank,40000,Cancelled
+TRX1173,2025-02-12,CUST119,Semarang,Rumah Tangga,1702000,1,5,Transfer Bank,25000,Delivered
+TRX1391,2025-02-14,CUST073,Semarang,Pakaian,176000,1,10,Credit Card,25000,Delivered
+TRX1111,2025-02-06,CUST008,Jakarta,Kecantikan,109000,1,0,Credit Card,10000,Delivered
+TRX1080,2025-02-22,CUST122,Malang,Olahraga,1592000,1,15,COD,25000,Delivered
+TRX1498,2025-01-25,CUST094,Bali,Pakaian,693000,2,0,Transfer Bank,40000,Delivered
+TRX1175,2025-01-28,CUST073,Surabaya,Rumah Tangga,772000,1,10,Transfer Bank,25000,Delivered
+TRX1217,2025-02-02,CUST014,Depok,Olahraga,966000,1,0,E-Wallet,10000,Delivered
+TRX1358,2025-02-28,CUST096,Makassar,Kesehatan,129000,1,10,Transfer Bank,40000,Cancelled
+TRX1082,2025-01-24,CUST050,,Kesehatan,548000,1,10,COD,40000,Delivered
+TRX1413,2025-02-01,CUST013,Bandung,Rumah Tangga,999000,3,15,Transfer Bank,10000,Cancelled
+TRX1389,2025-02-06,CUST042,Surabaya,Olahraga,541000,1,10,Credit Card,25000,Cancelled
+TRX1004,2025-02-14,CUST072,,Pakaian,428000,1,5,E-Wallet,10000,Delivered
+TRX1446,2025-02-14,CUST146,Makassar,Elektronik ,716000,1,0,E-Wallet,40000,Cancelled
+TRX1415,2025-01-05,CUST003,Medan,Kecantikan,370000,2,15,COD,40000,Delivered
+TRX1143,2025-01-28,CUST090,Malang,Kecantikan,170000,2,10,Transfer Bank,25000,Delivered
+TRX1302,2025-02-26,CUST028,Jakarta,Elektronik,4841000,1,15,Transfer Bank,10000,Delivered
+TRX1230,2025-02-07,CUST082,Makassar,Kecantikan,337000,1,10,Credit Card,40000,Delivered
+TRX1113,2025-01-22,CUST128,Depok,Pakaian,318000,1,0,Credit Card,10000,Delivered
+TRX1215,2025-02-07,CUST013,Jakarta,Kecantikan,569000,1,20,Credit Card,10000,Delivered
+TRX1280,2025-01-02,CUST055,Depok,Makanan,91000,1,0,COD,10000,Delayed
+TRX1360,2025-02-09,CUST101,Yogyakarta,Kecantikan,525000,1,0,Transfer Bank,25000,Delivered
+TRX1333,2025-01-19,CUST133,Makassar,Elektronik,635000,2,20,E-Wallet,40000,Delivered
+TRX1367,2025-01-03,CUST114,Bandung,Elektronik,14715000,3,0,E-Wallet,10000,Delivered
+TRX1102,2025-01-15,CUST040,Makassar,Kesehatan,346000,1,0,Credit Card,40000,Delivered
+TRX1288,2025-01-04,CUST023,Bandung,Makanan,138000,1,10,Credit Card,10000,Delivered
+TRX1014,2025-02-13,CUST136,Semarang,Olahraga,198000,2,0,COD,25000,Cancelled
+TRX1309,2025-02-14,CUST002,Medan,Pakaian,367000,2,20,E-Wallet,40000,Delayed
+TRX1259,2025-02-17,CUST060,Depok,Kecantikan,386000,1,0,Transfer Bank,10000,Delivered
+TRX1239,2025-01-26,CUST085,Bandung,Kesehatan,521000,2,15,Transfer Bank,10000,Delivered
+TRX1224,2025-02-02,CUST044,Malang,Kesehatan,796000,2,20,Credit Card,25000,Delivered
+TRX1096,2025-02-06,CUST126,Surabaya,Makanan,111000,1,0,E-Wallet,25000,Delivered
+TRX1031,2025-02-19,CUST129,Malang,Pakaian,135000,5,0,Transfer Bank,25000,Delivered
